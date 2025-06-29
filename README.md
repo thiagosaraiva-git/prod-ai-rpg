@@ -2,6 +2,8 @@
 
 An AI-powered solo RPG game where you can experience epic adventures with an intelligent virtual game master. Create your character, explore a fantasy world, and let the AI guide you through dynamic storytelling and challenging encounters.
 
+![image](https://github.com/user-attachments/assets/fc6eaca9-f2b3-4f5c-ad31-9b82290893a2)
+
 ## 🎮 How It Works
 
 ### AI Game Master
